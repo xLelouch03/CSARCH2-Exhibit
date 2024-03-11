@@ -5,6 +5,8 @@
 **CSARCH2 S13 Group #3**
 #### Members: Bacosa, Jawali, Maristela, Rejano, Serrato
 #### Theme: **Beyond the Lens, Within the Bytes: Cameras and Storage Media**
+#### Video Presentation: 
+[CSARCH2 Exhibit S13 Group 3: Beyond the Lens, Within the Bytes - Cameras and Storage Devices](https://www.youtube.com/watch?v=z5SWeXQ7Y0s)
 
 ## List of Components
 ### Storage Devices
